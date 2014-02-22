@@ -1,0 +1,11 @@
+{
+  "name": "bwjs",
+  "version": "0.0.0",
+  "description": "What would Javascript look like in a better world?",
+  "main": "index.js",
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
+  "license": "MIT",
+  "dependencies": {
+    "ometajs": "~3.3.5"
+  }
+}
